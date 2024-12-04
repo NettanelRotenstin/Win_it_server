@@ -3,4 +3,5 @@ export default interface IUser{
     password:string
     points:number
     percent_souccess:number
+    history?:string[]
 }
