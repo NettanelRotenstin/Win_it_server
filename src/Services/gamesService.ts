@@ -3,7 +3,7 @@ import IGame from "../types/interfaces/IGame"
 
 export const allGamesService = async () => {
     try {
-        const games = await gameModel.find({})
+        const games = await gameModel.find({}).populate('games')
         return games
     } catch (error) {
         console.log(`can't register`)

@@ -6,6 +6,7 @@ import { connectToMonge } from "./DB/config";
 import authRouter from "./Routers/authRouter";
 import gamesRouter from "./Routers/gamesRouter";
 import betRouter from "./Routers/betRouter";
+import { ceedBets, ceedGames, ceedTeams } from "./Services/authService";
 
 
 const app = express()

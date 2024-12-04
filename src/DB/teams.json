@@ -1,0 +1,43 @@
+[
+    {
+      "teamName": "Manchester United",
+      "icon": "https://example.com/icons/manchester_united.png"
+    },
+    {
+      "teamName": "Real Madrid",
+      "icon": "https://example.com/icons/real_madrid.png"
+    },
+    {
+      "teamName": "Barcelona",
+      "icon": "https://example.com/icons/barcelona.png"
+    },
+    {
+      "teamName": "Bayern Munich",
+      "icon": "https://example.com/icons/bayern_munich.png"
+    },
+    {
+      "teamName": "Paris Saint-Germain",
+      "icon": "https://example.com/icons/psg.png"
+    },
+    {
+      "teamName": "Juventus",
+      "icon": "https://example.com/icons/juventus.png"
+    },
+    {
+      "teamName": "Liverpool",
+      "icon": "https://example.com/icons/liverpool.png"
+    },
+    {
+      "teamName": "Chelsea",
+      "icon": "https://example.com/icons/chelsea.png"
+    },
+    {
+      "teamName": "Inter Milan",
+      "icon": "https://example.com/icons/inter_milan.png"
+    },
+    {
+      "teamName": "AC Milan",
+      "icon": "https://example.com/icons/ac_milan.png"
+    }
+  ]
+  
