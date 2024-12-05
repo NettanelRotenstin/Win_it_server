@@ -2,6 +2,7 @@ import mongoose from "mongoose";
 import gameModel from "../Models/gameModel"
 import IGame from "../types/interfaces/IGame"
 import '../Models/teamModel'
+import '../Models/betModel'
 
 
 export const allGamesService = async () => {
