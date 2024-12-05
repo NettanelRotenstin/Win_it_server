@@ -6,7 +6,7 @@ import '../Models/teamModel'
 
 export const allGamesService = async () => {
     try {
-        const games = await gameModel.find({}).populate("teamA").populate("teamB")
+        const games = await gameModel.find({}).populate("teamA").populate("teamB").populate("bets")
         return games
     } catch (error) {
         console.log(error)
